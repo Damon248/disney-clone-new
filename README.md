@@ -10,11 +10,11 @@ Welcome to the Disney Clone project! 🚀✨ Explore a curated list of movies, s
 
 ## Images:
 
-![Screenshot 2023-12-27 191236](https://github.com/Damon248/disney-clone-new/assets/91674984/633d65a6-39c4-40b0-80aa-b85260f3543c)
+![Screenshot 2023-12-27 191236](https://github.com/Damon248/disney-clone-new/assets/91674984/df88f2da-72ee-46aa-9068-aab0d1a98d4f)
 
-![Screenshot 2023-12-27 191255](https://github.com/Damon248/disney-clone-new/assets/91674984/fa183586-e638-4e2b-b644-8da3b1b8c55f)
+![Screenshot 2023-12-27 191255](https://github.com/Damon248/disney-clone-new/assets/91674984/20730318-b9e8-4f7e-9daa-8de936980297)
 
-![Screenshot 2023-12-27 191315](https://github.com/Damon248/disney-clone-new/assets/91674984/186a1040-db33-47a6-9236-cc2de094b715)
+![Screenshot 2023-12-27 191315](https://github.com/Damon248/disney-clone-new/assets/91674984/4e496a2b-ef16-4b04-b16f-cfece031f9fe)
 
 ## Features
 
