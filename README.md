@@ -1,8 +1,38 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Disney Clone
 
-First, run the development server:
+Welcome to the Disney Clone project! 🚀✨ Explore a curated list of movies, search for your favorites, and discover new gems with personalized movie suggestions powered by OpenAI.
+
+## Live Project:
+
+[Disney clone](https://disney-clone-new.vercel.app/)
+
+## Images:
+
+![Screenshot 2023-12-27 191236](https://github.com/Damon248/disney-clone-new/assets/91674984/df88f2da-72ee-46aa-9068-aab0d1a98d4f)
+
+![Screenshot 2023-12-27 191255](https://github.com/Damon248/disney-clone-new/assets/91674984/20730318-b9e8-4f7e-9daa-8de936980297)
+
+![Screenshot 2023-12-27 191315](https://github.com/Damon248/disney-clone-new/assets/91674984/4e496a2b-ef16-4b04-b16f-cfece031f9fe)
+
+## Features
+
+- 🎥 Browse a curated list of movies
+- 🔍 Search for specific movies and genres
+- 🤖 Intelligent movie suggestions based on OpenAI
+- 🌐 Powered by Microsoft Azure for seamless performance
+
+## Tech Stack
+
+- Next.js 14
+- TypeScript
+- Shadcn
+- Tailwind CSS
+- OpenAI API for intelligent movie suggestions
+- Microsoft Azure for robust cloud infrastructure
+- TMDB API for comprehensive movie data
+- Vercel for quick and efficient deployment
 
 ```bash
 npm run dev
