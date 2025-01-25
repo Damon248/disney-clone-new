@@ -23,7 +23,7 @@ async function GenrePage({ params: { id }, searchParams: { genre } }: Props) {
           Results for the genre: "{genre}"
         </h1>
         {/* AI suggestions */}
-        <AiSuggestion term={genre} />
+        {/* <AiSuggestion term={genre} /> */}
         <MoviesCarousel title={`Genre`} movies={movies} isVertical />
       </div>
     </div>

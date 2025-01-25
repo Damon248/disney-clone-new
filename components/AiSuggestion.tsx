@@ -1,5 +1,5 @@
 "use client";
-
+ 
 import useSWR from "swr";
 
 const fetcher = (term: string) =>
