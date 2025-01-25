@@ -39,7 +39,7 @@ export async function GET(req: Request) {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        inputs: `Here are the top three movie/series names that are similar to ${term}: `,
+        inputs: `Here are the top three movies/series names that are similar to ${term}: `,
         options: {
           wait_for_model: true,
         },
